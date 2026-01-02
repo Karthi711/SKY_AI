@@ -36,8 +36,8 @@ Ensure you have the following installed on your system:
 
 ### **2. Clone the Repository**
 ```sh
-$ git clone https://github.com/shettyv985/skyc.git
-$ cd skyc
+$ git clone https://github.com/Karthi711/SKY_AI.git
+$ cd SKY_AI
 ```
 
 ### **3. Install Dependencies**
